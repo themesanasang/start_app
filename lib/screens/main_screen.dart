@@ -15,8 +15,8 @@ class _MainScreenState extends State<MainScreen> {
       body: Center(
         child: RaisedButton(
           onPressed: () {},
-          color: Colors.blueAccent,
-          child: Text('Click555'),
+          color: Colors.greenAccent,
+          child: Text('Click Me...'),
         ),
       ),
     );
